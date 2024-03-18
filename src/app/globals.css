@@ -1,0 +1,16 @@
+
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --whiteOrange: #ffe8d9;
+    --dark: #000000;
+    --orange: #FF6702;
+    --lightDark: #333333;
+
+  }
+}
